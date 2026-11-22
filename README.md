@@ -30,6 +30,18 @@ AI makes code faster to write, but someone still has to answer the old questions
 
 Most posts start from a concrete question. I link to the original sources, note the version I checked, and keep verifiable facts separate from my own judgment.
 
+## Recent posts
+
+<!-- posts:start -->
+- [Modern Web Guidance Hands-On: Agents Fix Legacy Web Code](https://justmao.com/en/posts/modern-web-guidance-coding-agent/) · 2026-11-19
+- [agent-browser Tutorial: Let AI Test Its Own Web Pages](https://justmao.com/en/posts/agent-browser-ai-test-web-pages/) · 2026-11-19
+- [Claude Code Plugins: What to Check Before You Install One](https://justmao.com/en/posts/claude-code-plugin-safe-install/) · 2026-11-14
+- [gh actions-lock Tutorial: Pin GitHub Actions Dependencies With a Lockfile](https://justmao.com/en/posts/gh-actions-lock-workflow-lockfile/) · 2026-11-14
+- [Trusted Publishing Is Not Enough: Lock Down Your npm Release Pipeline](https://justmao.com/en/posts/npm-release-pipeline-lockdown/) · 2026-11-14
+<!-- posts:end -->
+
+More in the [archives](https://justmao.com/en/archives/).
+
 ## Side projects
 
 | Project | The question | What I built |
