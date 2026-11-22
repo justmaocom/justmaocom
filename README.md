@@ -1,7 +1,7 @@
 <a href="https://justmao.com/en/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="JustMao. Start with a question, write down the answer." src="assets/banner-light.svg" width="100%">
+    <img alt="JustMao. Start with a question, write down the answer: question, sources, version checked, answer." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -32,7 +32,9 @@ Most posts start from a concrete question. I link to the original sources, note 
 
 ## Side projects
 
-- [Government Procurement Act exam practice](https://justmao.com/en/projects/) loads the official PDF and DOCX question banks for Taiwan's Government Procurement Act into a database. It draws a fresh random set of questions for each round and tracks results across sessions to find weak areas. It runs on Python, FastAPI, and PostgreSQL.
-- [justmaocom.github.io](https://github.com/justmaocom/justmaocom.github.io) is the source code for justmao.com. The site runs on Jekyll with the Chirpy theme, and every post comes in Traditional Chinese, Simplified Chinese, and English.
+| Project | The question | What I built |
+|---|---|---|
+| **[Government Procurement Act exam practice](https://justmao.com/en/projects/)** | Which questions in the official bank do I keep getting wrong? | Loads the official PDF and DOCX question banks for Taiwan's Government Procurement Act into a database, draws a fresh random set for each round, and tracks results across sessions to find weak areas. Python · FastAPI · PostgreSQL |
+| **[justmaocom.github.io](https://github.com/justmaocom/justmaocom.github.io)** | How do I publish every post in three languages? | The source code for justmao.com. Every post comes in Traditional Chinese, Simplified Chinese, and English. Jekyll · Chirpy |
 
 <p align="center"><sub>The site is also available in <a href="https://justmao.com/">正體中文</a> and <a href="https://justmao.com/zh-CN/">简体中文</a>. To follow new posts, subscribe to the <a href="https://justmao.com/en/feed.xml">RSS feed</a>.</sub></p>
