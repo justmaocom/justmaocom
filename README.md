@@ -15,8 +15,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=1c1b19&title_color=f2efe8&text_color=a8a39a&icon_color=f2efe8&card_width=440">
-    <img alt="GitHub activity: commits, pull requests, and issues" src="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=f7f5ef&title_color=171717&text_color=55524d&icon_color=171717&card_width=440" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars%2Ccontribs&show=prs_merged%2Cprs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=1c1b19&title_color=f2efe8&text_color=a8a39a&icon_color=f2efe8&card_width=440">
+    <img alt="GitHub activity: commits, pull requests, and issues" src="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars%2Ccontribs&show=prs_merged%2Cprs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=f7f5ef&title_color=171717&text_color=55524d&icon_color=171717&card_width=440" width="49%">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=justmaocom&hide_border=true&background=1c1b19&ring=f2efe8&fire=f2efe8&currStreakNum=f2efe8&sideNums=f2efe8&currStreakLabel=f2efe8&sideLabels=a8a39a&dates=a8a39a&stroke=4a4740&card_width=440">
