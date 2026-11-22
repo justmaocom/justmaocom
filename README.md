@@ -1,63 +1,38 @@
-<a href="https://justmao.com">
+<a href="https://justmao.com/en/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="只是一根毛 JustMao。從問題開始，把答案寫下來" src="assets/banner-light.svg" width="100%">
+    <img alt="JustMao. Start with a question, write down the answer." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://justmao.com"><img alt="Blog justmao.com" src="https://img.shields.io/badge/Blog-justmao.com-eee9dc?style=flat-square&logo=jekyll&logoColor=white&labelColor=171717"></a>
+  <a href="https://justmao.com/en/"><img alt="Blog justmao.com" src="https://img.shields.io/badge/Blog-justmao.com-eee9dc?style=flat-square&logo=jekyll&logoColor=white&labelColor=171717"></a>
+  <a href="https://justmao.com/en/archives/"><img alt="Post count" src="https://img.shields.io/badge/dynamic/xml?url=https%3a%2f%2fjustmao.com%2fsitemap.xml&query=count%28%2f%2f%2a%5blocal-name%28%29%3d%27loc%27%5d%5bcontains%28.%2c%27%2fposts%2f%27%29%5d%29&label=Posts&suffix=+in+3+languages&color=eee9dc&labelColor=171717&style=flat-square&logo=googledocs&logoColor=white"></a>
   <a href="https://x.com/justmaocom"><img alt="X @justmaocom" src="https://img.shields.io/badge/X-%40justmaocom-eee9dc?style=flat-square&logo=x&logoColor=white&labelColor=171717"></a>
-  <a href="https://justmao.com/feed.xml"><img alt="RSS feed" src="https://img.shields.io/badge/RSS-feed.xml-eee9dc?style=flat-square&logo=rss&logoColor=white&labelColor=171717"></a>
+  <a href="https://justmao.com/en/feed.xml"><img alt="RSS feed" src="https://img.shields.io/badge/RSS-feed.xml-eee9dc?style=flat-square&logo=rss&logoColor=white&labelColor=171717"></a>
   <a href="mailto:contact@justmao.com"><img alt="Email contact@justmao.com" src="https://img.shields.io/badge/Email-contact%40justmao.com-eee9dc?style=flat-square&labelColor=171717"></a>
 </p>
 
-我是 JustMao，軟體工程師。我做過資安研究、Android 與 Flutter，後來轉做後端，現在工作上大多在處理 AI/LLM 平台、RAG 和 Agent。
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=1c1b19&title_color=f2efe8&text_color=a8a39a&icon_color=f2efe8&card_width=440">
+    <img alt="GitHub activity: commits, pull requests, and issues" src="https://github-readme-stats.vercel.app/api?username=justmaocom&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&custom_title=GitHub%20activity&hide_border=true&bg_color=f7f5ef&title_color=171717&text_color=55524d&icon_color=171717&card_width=440" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=justmaocom&hide_border=true&background=1c1b19&ring=f2efe8&fire=f2efe8&currStreakNum=f2efe8&sideNums=f2efe8&currStreakLabel=f2efe8&sideLabels=a8a39a&dates=a8a39a&stroke=4a4740&card_width=440">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=justmaocom&hide_border=true&background=f7f5ef&ring=171717&fire=171717&currStreakNum=171717&sideNums=171717&currStreakLabel=171717&sideLabels=55524d&dates=55524d&stroke=d8d2c4&card_width=440" width="49%">
+  </picture>
+</p>
 
-AI 讓程式寫得更快，但需求有沒有問清楚、修改有沒有弄壞別處、agent 該拿到多少權限，仍然要有人回答。我在 [justmao.com](https://justmao.com) 寫的文章，大多在釐清哪些事可以放心交給 AI，哪些仍要由人把關。
+I'm JustMao, a software engineer. I started out in security research, moved on to Android and Flutter, and eventually landed on the backend. These days I mostly build AI/LLM platforms, RAG, and agents.
 
-## 我寫什麼
+AI makes code faster to write, but someone still has to answer the old questions. Were the requirements pinned down? Did the change break anything else? How much access should the agent get? Most of what I write on [justmao.com](https://justmao.com/en/) tries to sort out which work you can safely hand to AI and which decisions still need a person.
 
-<table>
-<tr>
-<td valign="top" width="34%">
+Most posts start from a concrete question. I link to the original sources, note the version I checked, and keep verifiable facts separate from my own judgment.
 
-### Coding agent 的 skill 與工作流程
+## Side projects
 
-- [mattpocock/skills 系列導讀](https://justmao.com/posts/mattpocock-skills-series-guide/)
-- [pstack 系列導讀](https://justmao.com/posts/pstack-series-guide/)
-- [自己寫 Agent Skill](https://justmao.com/posts/agent-skill-authoring-guide/)
-- [我怎麼理解 AI 原生開發流程](https://justmao.com/posts/ai-native-sdlc-playbook/)
+- [Government Procurement Act exam practice](https://justmao.com/en/projects/) loads the official PDF and DOCX question banks for Taiwan's Government Procurement Act into a database. It draws a fresh random set of questions for each round and tracks results across sessions to find weak areas. It runs on Python, FastAPI, and PostgreSQL.
+- [justmaocom.github.io](https://github.com/justmaocom/justmaocom.github.io) is the source code for justmao.com. The site runs on Jekyll with the Chirpy theme, and every post comes in Traditional Chinese, Simplified Chinese, and English.
 
-</td>
-<td valign="top" width="33%">
-
-### Agent 帶來的資安問題
-
-- [裝了第三方 skill 和 MCP 之後多了哪些破口](https://justmao.com/posts/coding-agent-supply-chain-permission-risks/)
-- [OWASP Agentic Top 10 檢查表](https://justmao.com/posts/owasp-agentic-top-10-ai-workflow-checklist/)
-- [從一張 HEIF 圖片看 SSO 攻擊鏈](https://justmao.com/posts/openai-libheif-sso-attack-chain/)
-- [Claude Code 沙箱設定](https://justmao.com/posts/claude-code-sandbox-setup/)
-
-</td>
-<td valign="top" width="33%">
-
-### 開源工具的原始碼拆解
-
-- [OpenWiki 追得到程式碼變更，卻證明不了文件正確](https://justmao.com/posts/openwiki-agent-docs-maintenance/)
-- [Modern Web Guidance 實測](https://justmao.com/posts/modern-web-guidance-coding-agent/)
-
-</td>
-</tr>
-</table>
-
-每篇文章多半從一個具體的問題開始。我會附上原始資料，註明查證時的版本，並把查得到的事實和自己的判斷分開寫。
-
-## 小專案
-
-- [政府採購法題庫練習平台](https://justmao.com/posts/gpa-question-webapp-study-loop/)把官方 PDF 與 DOCX 題庫匯入資料庫，每輪隨機抽題，再用跨練習的統計找出弱項。用 Python、FastAPI 與 PostgreSQL 寫成。
-- [justmaocom.github.io](https://github.com/justmaocom/justmaocom.github.io) 是 justmao.com 的原始碼。網站用 Jekyll 與 Chirpy 主題建置，每篇文章都有正體中文、簡體中文與英文三個版本。
-
-其他專案列在 [justmao.com 的專案頁](https://justmao.com/projects/)。
-
-<p align="center"><sub>網站另有 <a href="https://justmao.com/zh-CN/">简体中文</a> 與 <a href="https://justmao.com/en/">English</a> 版本，也可以用 <a href="https://justmao.com/feed.xml">RSS</a> 訂閱新文章。</sub></p>
+<p align="center"><sub>The site is also available in <a href="https://justmao.com/">正體中文</a> and <a href="https://justmao.com/zh-CN/">简体中文</a>. To follow new posts, subscribe to the <a href="https://justmao.com/en/feed.xml">RSS feed</a>.</sub></p>
