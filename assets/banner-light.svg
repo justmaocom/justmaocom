@@ -8,52 +8,34 @@
   <clipPath id="frame"><rect width="1200" height="340" rx="24"/></clipPath>
   <g clip-path="url(#frame)">
     <rect width="1200" height="340" fill="#f7f5ef"/>
-    <circle cx="1110" cy="30" r="170" fill="#eee9dc"/>
-    <circle cx="1108" cy="30" r="106" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.08"/>
-  </g>
-  <rect x="48" y="40" width="260" height="260" rx="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-  <g transform="translate(68 60) scale(0.55)" fill="none" stroke="#000000" stroke-opacity="0.9" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M97.8357 54.6682C177.199 59.5311 213.038 52.9891 238.043 52.9891C261.298 52.9891 272.24 129.465 262.683 152.048C253.672 173.341 100.331 174.196 93.1919 165.763C84.9363 156.008 89.7095 115.275 89.7095 101.301"/>
-    <path d="M98.3318 190.694C-10.6597 291.485 121.25 273.498 148.233 295.083"/>
-    <path d="M98.3301 190.694C99.7917 213.702 101.164 265.697 100.263 272.898"/>
-    <path d="M208.308 136.239C208.308 131.959 208.308 127.678 208.308 123.396"/>
-    <path d="M177.299 137.271C177.035 133.883 177.3 126.121 177.3 123.396"/>
-    <path d="M203.398 241.72C352.097 239.921 374.881 226.73 312.524 341.851"/>
-    <path d="M285.55 345.448C196.81 341.85 136.851 374.229 178.223 264.504"/>
-    <path d="M180.018 345.448C160.77 331.385 139.302 320.213 120.658 304.675"/>
-    <path d="M218.395 190.156C219.024 205.562 219.594 220.898 219.594 236.324"/>
-    <path d="M218.395 190.156C225.896 202.037 232.97 209.77 241.777 230.327"/>
-    <path d="M80.1174 119.041C75.5996 120.222 71.0489 119.99 66.4414 120.41"/>
-    <path d="M59.5935 109.469C59.6539 117.756 59.5918 125.915 58.9102 134.086"/>
-    <path d="M277.741 115.622C281.155 115.268 284.589 114.823 287.997 114.255"/>
-    <path d="M291.412 104.682C292.382 110.109 292.095 115.612 292.095 121.093"/>
-    <path d="M225.768 116.466C203.362 113.993 181.657 115.175 160.124 118.568"/>
+    <circle cx="1110" cy="10" r="170" fill="#eee9dc"/>
+    <circle cx="1108" cy="10" r="106" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.08"/>
   </g>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" fill="#171717">
-    <text x="374" y="94" font-size="20" font-weight="600" letter-spacing="4">JUSTMAO.COM</text>
-    <text x="370" y="172" font-size="72" font-weight="700" letter-spacing="1">JustMao</text>
+    <text x="48" y="74" font-size="20" font-weight="600" letter-spacing="4">JUSTMAO.COM</text>
+    <text x="44" y="152" font-size="72" font-weight="700" letter-spacing="1">JustMao</text>
     <g stroke="#55524d" stroke-width="2" stroke-linecap="round" fill="none">
-      <path d="M374 198v14"/>
-      <path d="M374 205H1138" stroke-dasharray="0.1 7"/>
-      <path d="M1130 199l9 6-9 6"/>
+      <path d="M48 178v14"/>
+      <path d="M48 185H1138" stroke-dasharray="0.1 7"/>
+      <path d="M1130 179l9 6-9 6"/>
     </g>
-    <circle cx="1152" cy="205" r="4" fill="#55524d"/>
+    <circle cx="1152" cy="185" r="4" fill="#55524d"/>
     <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="2.5" text-anchor="middle" dominant-baseline="central">
       <!-- background-colored copy underneath knocks the dotted line out behind each label; paint-order on the label itself breaks per glyph in WebKit -->
       <g fill="#f7f5ef" stroke="#f7f5ef" stroke-width="16" stroke-linejoin="round">
-        <text x="489" y="205">QUESTION</text>
-        <text x="646" y="205">SOURCES</text>
-        <text x="844" y="205">VERSION CHECKED</text>
-        <text x="1036" y="205" font-weight="700">ANSWER</text>
+        <text x="228" y="185">QUESTION</text>
+        <text x="448" y="185">SOURCES</text>
+        <text x="708" y="185">VERSION CHECKED</text>
+        <text x="962" y="185" font-weight="700">ANSWER</text>
       </g>
       <g fill="#55524d">
-        <text x="489" y="205">QUESTION</text>
-        <text x="646" y="205">SOURCES</text>
-        <text x="844" y="205">VERSION CHECKED</text>
-        <text x="1036" y="205" font-weight="700" fill="#171717">ANSWER</text>
+        <text x="228" y="185">QUESTION</text>
+        <text x="448" y="185">SOURCES</text>
+        <text x="708" y="185">VERSION CHECKED</text>
+        <text x="962" y="185" font-weight="700" fill="#171717">ANSWER</text>
       </g>
     </g>
-    <text x="374" y="256" font-size="28" fill="#55524d">Start with a question, write down the answer<tspan class="cursor" dx="4" font-weight="300">|</tspan></text>
-    <text x="374" y="298" font-size="18" letter-spacing="0.5" fill="#55524d">Coding agent workflows · Agent security · Source-code deep dives</text>
+    <text x="48" y="236" font-size="28" fill="#55524d">Start with a question, write down the answer<tspan class="cursor" dx="4" font-weight="300">|</tspan></text>
+    <text x="48" y="278" font-size="18" letter-spacing="0.5" fill="#55524d">Coding agent workflows · Agent security · Source-code deep dives</text>
   </g>
 </svg>
