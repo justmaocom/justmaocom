@@ -33,11 +33,11 @@ Most posts start from a concrete question. I link to the original sources, note 
 ## Recent posts
 
 <!-- posts:start -->
+- [PHP CVE-2026-109618: How to Fix Exploited php2shell Flaws](https://justmao.com/en/posts/php2shell-cve-2026-109618/) · 2026-11-23
+- [nginx CVE-2026-123007: Upgrade Now If HTTP/2 Is On](https://justmao.com/en/posts/nginx-http2-cve-2026-123007/) · 2026-11-23
 - [Expensive Model Plans, Cheap Model Codes: shadcn/improve](https://justmao.com/en/posts/shadcn-improve-advisor-executor/) · 2026-11-22
 - [Modern Web Guidance Hands-On: Agents Fix Legacy Web Code](https://justmao.com/en/posts/modern-web-guidance-coding-agent/) · 2026-11-19
 - [agent-browser Tutorial: Let AI Test Its Own Web Pages](https://justmao.com/en/posts/agent-browser-ai-test-web-pages/) · 2026-11-19
-- [Claude Code Plugins: What to Check Before You Install One](https://justmao.com/en/posts/claude-code-plugin-safe-install/) · 2026-11-14
-- [gh actions-lock Tutorial: Pin GitHub Actions Dependencies With a Lockfile](https://justmao.com/en/posts/gh-actions-lock-workflow-lockfile/) · 2026-11-14
 <!-- posts:end -->
 
 More in the [archives](https://justmao.com/en/archives/).
