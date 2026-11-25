@@ -33,11 +33,11 @@ Most posts start from a concrete question. I link to the original sources, note 
 ## Recent posts
 
 <!-- posts:start -->
+- [mattpocock/skills vs pstack: Which Skill Pack to Install](https://justmao.com/en/posts/mattpocock-skills-vs-pstack/) · 2026-11-24
 - [Codex Security Tutorial: Scan Your Own Repo With cs scan](https://justmao.com/en/posts/codex-security-cs-scan-repo/) · 2026-11-24
 - [PHP CVE-2026-109618: How to Fix Exploited php2shell Flaws](https://justmao.com/en/posts/php2shell-cve-2026-109618/) · 2026-11-23
 - [nginx CVE-2026-123007: Upgrade Now If HTTP/2 Is On](https://justmao.com/en/posts/nginx-http2-cve-2026-123007/) · 2026-11-23
 - [Expensive Model Plans, Cheap Model Codes: shadcn/improve](https://justmao.com/en/posts/shadcn-improve-advisor-executor/) · 2026-11-22
-- [Modern Web Guidance Hands-On: Agents Fix Legacy Web Code](https://justmao.com/en/posts/modern-web-guidance-coding-agent/) · 2026-11-19
 <!-- posts:end -->
 
 More in the [archives](https://justmao.com/en/archives/).
